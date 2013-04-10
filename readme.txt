@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Google Maps Retailers ===
 Contributors: cmmarslender,
 Tags: map, google map,
 Requires at least: 3.0.1

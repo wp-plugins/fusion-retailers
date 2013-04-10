@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Fusion Retailers
+ * Plugin Name: Google Maps Retailers
  * Author: Graphic Fusion Design
  * Author URI: http://graphicfusiondesign.com
  * Description: Plugin to manage and output retailers by region on a Google Map.
