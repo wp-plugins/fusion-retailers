@@ -1,6 +1,6 @@
 === Google Maps Retailers ===
-Contributors: cmmarslender,
-Tags: map, google map,
+Contributors: cmmarslender
+Tags: map, google map, google maps, retailers, store locator, custom post type, united states, retail
 Requires at least: 3.0.1
 Tested up to: 3.5.1
 Stable tag: /trunk/
@@ -22,6 +22,10 @@ Plugin to manage and output retailers by region on a Google Map.
 
 == Frequently Asked Questions ==
 
+= How do I add retailers to the map? =
+
+You add retailers to the map much like you would a post or page in WordPress. Once the plugin is activated, you will get another menu item called 'Retailers' in the sidebar. Click here, and add a new retailer. Make sure to select the states you want the retailer to show up in.
+
 = How can I change the colors of the states output to the map? =
 
 In wp-admin, go to the 'Retailers' menu item and click on 'Retailer Settings'. Adjust the colors to your liking, and press 'Submit'
@@ -34,13 +38,13 @@ Let us know. You can contact us through our website [Graphic Fusion Design](http
 
 1. The map that is output using the `[fusion_retailers_map]` shortcode.
 2. A list of retailers for a given state, brought up by clicking on the state.
-3. State color configuration screenshot.
+3. Example of adding a new retailer to the map.
+4. The admin page for managing the colors of the states.
 
 == Changelog ==
 
 = 1.0 =
-* A change since the previous version.
-* Another change.
+* First public release
 
 == Upgrade Notice ==
 
