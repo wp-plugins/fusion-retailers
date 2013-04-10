@@ -17,7 +17,7 @@ Plugin to manage and output retailers by region on a Google Map.
 
 1. Upload the `fusion-retailers` directory to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Use the shortcode [fusion_retailers_map] or place `<?php echo do_shortcode('fusion_retailers_map'); ?>` in your templates to output the necessary HTML markup for the map.
+1. Use the shortcode [fusion_retailers_map] or place `<?php echo do_shortcode('[fusion_retailers_map]'); ?>` in your templates to output the necessary HTML markup for the map.
 1. Add retailers by clicking on the new 'Retailers' menu item in the WordPress admin.
 
 == Frequently Asked Questions ==
