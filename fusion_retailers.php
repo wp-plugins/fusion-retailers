@@ -4,7 +4,7 @@
  * Author: Graphic Fusion Design
  * Author URI: http://graphicfusiondesign.com
  * Description: Plugin to manage and output retailers by region on a Google Map.
- * Version: 1.0
+ * Version: 1.0.1
  */
 
 if ( is_admin() ) {

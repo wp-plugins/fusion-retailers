@@ -1,5 +1,5 @@
 === Google Maps Retailers ===
-Contributors: cmmarslender
+Contributors: cmmarslender, graphicfusion
 Tags: map, google map, google maps, retailers, store locator, custom post type, united states, retail
 Requires at least: 3.0.1
 Tested up to: 3.5.1
@@ -43,10 +43,16 @@ Let us know. You can contact us through our website [Graphic Fusion Design](http
 
 == Changelog ==
 
+= 1.0.1 =
+* Added css fix for map when images have a max-width set.
+
 = 1.0 =
 * First public release
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+Fixed css display issues when images had a max-width set.
 
 = 1.0 =
 First release to public
