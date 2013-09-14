@@ -1,5 +1,5 @@
 === Google Maps Retailers ===
-Contributors: cmmarslender, graphicfusion
+Contributors: graphicfusion
 Tags: map, google map, google maps, retailers, store locator, custom post type, united states, retail
 Requires at least: 3.0.1
 Tested up to: 3.5.1
