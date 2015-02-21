@@ -2,7 +2,7 @@
 Contributors: graphicfusion
 Tags: map, google map, google maps, retailers, store locator, custom post type, united states, retail
 Requires at least: 3.0.1
-Tested up to: 3.5.1
+Tested up to: 4.1.1
 Stable tag: /trunk/
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -10,8 +10,17 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Plugin to manage and output retailers by region on a Google Map.
 
 == Description ==
+This plugin lets you create state regions on top of a Google Map then add a popup box with external links. Currently supports only USA map
 
-Plugin to manage and output retailers by region on a Google Map.
+#Features:
+- Have unique color for a region 
+- Ability to add external links to a state
+
+#Once the plugin is installed
+Use [fusion_retailers_map] or place `<?php echo do_shortcode('[fusion_retailers_map]'); ?>` in your templates to output the necessary HTML markup for the map.
+
+Got questions or comments? Visit us at [Graphic Fusion Design](http://graphicfusiondesign.com "Tucson Web Design”)
+
 
 == Installation ==
 
@@ -32,7 +41,7 @@ In wp-admin, go to the 'Retailers' menu item and click on 'Retailer Settings'. A
 
 = What if I find a bug or have a suggestion for improvements? =
 
-Let us know. You can contact us through our website [Graphic Fusion Design](http://graphicfusiondesign.com/ "Web Design Tucson")
+Let us know. You can contact us through our website [Graphic Fusion Design](http://graphicfusiondesign.com/support "Web Design Tucson")
 
 == Screenshots ==
 
