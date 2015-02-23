@@ -13,13 +13,13 @@ Plugin to manage and output retailers by region on a Google Map.
 This plugin lets you create state regions on top of a Google Map then add a popup box with external links. Currently supports only USA map
 
 Features:
-- Have unique color for a region 
-- Ability to add external links to a state
+* Have unique color for a region 
+* Ability to add external links to a state
 
-Once the plugin is installed
+Once the plugin is installed:
 Use [fusion_retailers_map] or place `<?php echo do_shortcode('[fusion_retailers_map]'); ?>` in your templates to output the necessary HTML markup for the map.
 
-Got questions or comments? Visit us at [Graphic Fusion Design](http://graphicfusiondesign.com "Tucson Web Design”)
+Got questions or comments? Visit us at [Graphic Fusion Design](http://graphicfusiondesign.com)
 
 
 == Installation ==
